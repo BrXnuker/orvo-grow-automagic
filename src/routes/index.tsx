@@ -55,7 +55,7 @@ function Landing() {
       <header className="sticky top-0 z-40 border-b border-border/60 bg-background/85 backdrop-blur">
         <div className="mx-auto flex max-w-6xl items-center justify-between px-5 py-3">
           <a href="#top" className="flex items-center">
-            <img src={logo.url} alt="ORVO AI Automation Solutions" style={{ height: 40 }} className="w-auto" />
+            <img src={isologo.url} alt="ORVO AI Automation Solutions" style={{ height: 56 }} className="w-auto" />
           </a>
           <a
             href="#contacto"
@@ -104,7 +104,7 @@ function Landing() {
               src={isologo.url}
               alt=""
               aria-hidden="true"
-              className="pointer-events-none absolute -right-16 top-10 hidden h-[460px] w-[460px] opacity-[0.06] md:block"
+              className="pointer-events-none absolute -right-20 top-6 hidden h-[580px] w-[580px] opacity-[0.06] md:block"
             />
           </div>
         </section>
