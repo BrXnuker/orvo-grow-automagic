@@ -318,7 +318,7 @@ function Landing() {
       {/* FOOTER */}
       <footer className="bg-navy py-10 text-white/70">
         <div className="mx-auto flex max-w-6xl flex-col items-start gap-4 px-5 sm:flex-row sm:items-center sm:justify-between">
-          <img src={logo.url} alt="ORVO" style={{ height: 32 }} className="w-auto" />
+          <img src={logo.url} alt="ORVO" style={{ height: 48 }} className="w-auto" />
           <div className="flex flex-col gap-1 text-sm sm:flex-row sm:items-center sm:gap-6">
             <a href="mailto:polperez@orvo.es" className="hover:text-white">polperez@orvo.es</a>
             <a href="https://www.orvo.es" className="hover:text-white">www.orvo.es</a>
