@@ -104,7 +104,7 @@ function Landing() {
               src={isologo.url}
               alt=""
               aria-hidden="true"
-              className="pointer-events-none absolute -right-16 top-10 hidden h-[460px] w-[460px] opacity-[0.06] md:block"
+              className="pointer-events-none absolute -right-20 top-6 hidden h-[580px] w-[580px] opacity-[0.06] md:block"
             />
           </div>
         </section>
